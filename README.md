@@ -52,3 +52,9 @@ Download from [releases](https://github.com/66Bunz/DroptopFour-WakaTime/releases
 Obviously to the [WakaTime project](https://wakatime.com/)
 
 ## License
+
+[GNU General Public License v3.0](LICENSE)
+
+Feel free to modify or redistribute these Rainmeter skins as much as you want. Just:
+- Link back to me somehow
+- Use ths same license
