@@ -49,7 +49,7 @@ You can decide what to display inside the app and hide/show each section.
 Download from [releases](https://github.com/66Bunz/DroptopFour-WakaTime/releases) or from the [website](https://droptopfour.com/community-apps?id=29)
 
 ## Credits
-Since this is not an official WakaTime app, bviously to the [WakaTime project](https://wakatime.com/)
+Since this is not an official WakaTime app, obviously to the [WakaTime project](https://wakatime.com/)
 
 ## License
 
